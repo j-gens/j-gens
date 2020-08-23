@@ -1,4 +1,15 @@
-### Hi there 👋
+## Hello!
+
+### About Me:
+
+:computer: Full-Stack Software Developer
+:dog: Pug owner and enthusiast
+
+### How to reach me:
+
+:link: Make a connection on [LinkedIn](https://www.linkedin.com/in/juliatgens/)
+:art: Check out my [portfolio page](https://j-gens.github.io/)
+
 
 <!--
 **j-gens/j-gens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
