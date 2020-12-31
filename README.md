@@ -2,7 +2,7 @@
 
 ### About Me:
 
-:computer: Full-Stack Software Developer  
+:computer: Software Engineer at Dwolla
 :dog: Pug owner and enthusiast
 
 ### How to reach me:
