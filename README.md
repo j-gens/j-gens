@@ -2,7 +2,7 @@
 
 ### About Me:
 
-:computer: Software Engineer at Dwolla
+:computer: Software Engineer at Dwolla  
 :dog: Pug owner and enthusiast
 
 ### How to reach me:
