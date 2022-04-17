@@ -7,7 +7,7 @@
 
 ### How to reach me:
 
-:link: Make a connection on [LinkedIn](https://www.linkedin.com/in/juliatgens/)  
+:link: Make a connection on [LinkedIn](https://www.linkedin.com/in/juliagensnguyen/)  
 :art: Check out my [portfolio page](https://j-gens.github.io/)
 
 
